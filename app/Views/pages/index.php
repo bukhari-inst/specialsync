@@ -94,134 +94,53 @@
                     <h4>Web Designer & Web Developer lebih dari 17 tahun</h4>
                 </div>
             </div>
-            <div class="col-lg-8">
-                <div class="naccs">
-                    <div class="tabs">
-                        <div class="row">
-                            <div class="col-lg-12">
-                                <div class="menu">
-                                    <div class="active gradient-border"><span>Web Design</span></div>
-                                    <div class="gradient-border"><span>Graphics</span></div>
-                                    <div class="gradient-border"><span>Web Coding</span></div>
-                                </div>
-                            </div>
-                            <div class="col-lg-12">
-                                <ul class="nacc">
-                                    <li class="active">
-                                        <div>
-                                            <div class="main-list">
-                                                <span class="title">Project Title</span>
-                                                <span class="title">Budget</span>
-                                                <span class="title">Deadline</span>
-                                                <span class="title">Client</span>
-                                            </div>
-                                            <div class="list-item">
-                                                <span class="item item-title">Website Redesign</span>
-                                                <span class="item">$1,500 to $2,200</span>
-                                                <span class="item">2022 Dec 12</span>
-                                                <span class="item">Web Biz</span>
-                                            </div>
-                                            <div class="list-item">
-                                                <span class="item item-title">Website Renovation</span>
-                                                <span class="item">$2,500 to $3,600</span>
-                                                <span class="item">2022 Dec 10</span>
-                                                <span class="item">Online Ads</span>
-                                            </div>
-                                            <div class="list-item">
-                                                <span class="item item-title">Marketing Plan</span>
-                                                <span class="item">$2,500 to $4,200</span>
-                                                <span class="item">2022 Dec 8</span>
-                                                <span class="item">Web Biz</span>
-                                            </div>
-                                            <div class="list-item last-item">
-                                                <span class="item item-title">All-new Website</span>
-                                                <span class="item">$3,000 to $6,600</span>
-                                                <span class="item">2022 Dec 2</span>
-                                                <span class="item">Web Presence</span>
-                                            </div>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div>
-                                            <div class="main-list">
-                                                <span class="title">Project Title</span>
-                                                <span class="title">Budget</span>
-                                                <span class="title">Deadline</span>
-                                                <span class="title">Client</span>
-                                            </div>
-                                            <div class="list-item">
-                                                <span class="item item-title">Graphics Redesign</span>
-                                                <span class="item">$500 to $800</span>
-                                                <span class="item">2022 Nov 24</span>
-                                                <span class="item">Media One</span>
-                                            </div>
-                                            <div class="list-item">
-                                                <span class="item item-title">Digital Graphics</span>
-                                                <span class="item">$1,500 to $3,000</span>
-                                                <span class="item">2022 Nov 18</span>
-                                                <span class="item">Second Media</span>
-                                            </div>
-                                            <div class="list-item">
-                                                <span class="item item-title">New Artworks</span>
-                                                <span class="item">$2,200 to $4,400</span>
-                                                <span class="item">2022 Nov 10</span>
-                                                <span class="item">Artwork Push</span>
-                                            </div>
-                                            <div class="list-item last-item">
-                                                <span class="item item-title">Complex Arts</span>
-                                                <span class="item">$1,100 to $2,400</span>
-                                                <span class="item">2022 Nov 3</span>
-                                                <span class="item">Media One</span>
-                                            </div>
-                                    </li>
-                                    <li>
-                                        <div>
-                                            <div class="main-list">
-                                                <span class="title">Project Title</span>
-                                                <span class="title">Budget</span>
-                                                <span class="title">Estimated</span>
-                                                <span class="title">Technology</span>
-                                            </div>
-                                            <div class="list-item">
-                                                <span class="item item-title">Backend Coding</span>
-                                                <span class="item">$2,000 to $5,000</span>
-                                                <span class="item">2022 Nov 28</span>
-                                                <span class="item">PHP MySQL</span>
-                                            </div>
-                                            <div class="list-item">
-                                                <span class="item item-title">New Web App</span>
-                                                <span class="item">$1,500 to $3,000</span>
-                                                <span class="item">2022 Nov 18</span>
-                                                <span class="item">Python Programming</span>
-                                            </div>
-                                            <div class="list-item">
-                                                <span class="item item-title">Frontend Interactions</span>
-                                                <span class="item">$3,000 to $6,000</span>
-                                                <span class="item">2022 Nov 10</span>
-                                                <span class="item">JavaScripts</span>
-                                            </div>
-                                            <div class="list-item last-item">
-                                                <span class="item item-title">Video Creations</span>
-                                                <span class="item">$1,800 to $4,400</span>
-                                                <span class="item">2022 Nov 3</span>
-                                                <span class="item">Multimedia</span>
-                                            </div>
-                                        </div>
-                                    </li>
-                                </ul>
-                            </div>
+            <div class="row">
+                <div class="col-sm-4">
+                    <div class="card text-center">
+                        <div class="card-header">
+                            Startup <br>
+                            <div class="text-muted">Instan & Ekonomis</div>
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title py-4">PAKET BASIC</h5>
+                            <h3 class="pb-4">Rp. 3Jt</h3>
+                            <p class="card-text">Cocok untuk organisasi kecil yang belum membutuhkan banyak konten.
+                                Design mengikuti Template, Fitur terbatas.</p>
+                            <p class="py-4">Gratis Email Perusahaan</p>
+                            <a href="#" class="btn btn-success px-lg-5 mb-3">ORDER WEBSITE</a>
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-lg-4">
-                <div class="right-content">
-                    <h4>Please tell us about your idea and how you want it to be</h4>
-                    <p>You are allowed to use this template for your websites. You are <b>NOT allowed</b> to
-                        redistribute the template ZIP file on any other template websites.<br><br>Thank you for
-                        downloading and using our templates. Please tell your friends about our website.</p>
-                    <div class="green-button">
-                        <a href="about-us.html">Discover More</a>
+                <div class="col-sm-4">
+                    <div class="card text-center">
+                        <div class="card-header">
+                            Standard Organization <br>
+                            <div class="text-muted">Optimal</div>
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title py-4">PAKET BUSINESS</h5>
+                            <h3 class="pb-4">Rp. 5Jt</h3>
+                            <p class="card-text">Cocok untuk mengakomodasi kebutuhan basic Company Profile perusahaan
+                                menengah ke bawah.</p>
+                            <p class="py-4">Gratis Email Perusahaan</p>
+                            <a href="#" class="btn btn-success px-lg-5 mb-3">ORDER WEBSITE</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="card text-center">
+                        <div class="card-header">
+                            Corporate <br>
+                            <div class="text-muted">Creative Organization</div>
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title py-4">PAKET CUSTOM</h5>
+                            <h3 class="pb-4">Rp. 7Jt</h3>
+                            <p class="card-text">Untuk organisasi skala apapun. Full Custom mengikuti kreatifitas
+                                Client. Cocok untuk fitur yang kompleks.</p>
+                            <p class="py-4">Gratis Email Perusahaan</p>
+                            <a href="#" class="btn btn-success px-lg-5 mb-3">ORDER WEBSITE</a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -242,34 +161,36 @@
                 <div class="owl-testimonials owl-carousel" style="position: relative; z-index: 5;">
                     <div class="item">
                         <i class="fa fa-quote-left"></i>
-                        <p>“Donec et nunc massa. Nullam non felis dignissim, dapibus turpis semper, vulputate lorem.
-                            Nam volutpat posuere tellus, in porttitor justo interdum nec. Aenean in dapibus risus,
-                            in euismod ligula. Aliquam vel scelerisque elit.”</p>
-                        <h4>David Eigenberg</h4>
-                        <span>CEO of Mexant</span>
+                        <p>“Saya suka bagaimana Specialsync mudah digunakan. Saya dapat membuat situs saya aktif dan
+                            berjalan dengan cepat dengan sedikit usaha. Ini adalah pembuat situs web yang bagus untuk
+                            siapa saja yang tidak tahu banyak tentang situs web, tetapi mengetahui dasar-dasar apa yang
+                            mereka inginkan.”</p>
+                        <h4>Bukhari MU</h4>
+                        <span>Jasa Marga Related Business</span>
                         <div class="right-image">
                             <img src="<?= base_url() ?>/assets/images/testimonials-01.jpg" alt="">
                         </div>
                     </div>
                     <div class="item">
                         <i class="fa fa-quote-left"></i>
-                        <p>“Etiam id ligula risus. Fusce fringilla nisl nunc, nec rutrum lectus cursus nec. In
-                            blandit nibh dolor, at rutrum leo accumsan porta. Nullam pulvinar eros porttitor risus
-                            condimentum tempus.”</p>
+                        <p>“Specialsync memiliki layanan pembuatan situs web terbaik. Mereka sangat berpengetahuan dan
+                            akan membantu Anda di setiap langkah proses. Saya sangat terkesan dengan perusahaan ini -
+                            lebih baik dari apa pun yang pernah saya lihat di luar sana sejauh ini!”</p>
                         <h4>Andrew Garfield</h4>
-                        <span>CTO of Mexant</span>
+                        <span>PT United Tractors Tbk.</span>
                         <div class="right-image">
-                            <img src="<?= base_url() ?>/assets/images/testimonials-01.jpg" alt="">
+                            <img src="<?= base_url() ?>/assets/images/testimonials-02.jpg" alt="">
                         </div>
                     </div>
                     <div class="item">
                         <i class="fa fa-quote-left"></i>
-                        <p>“Ut dictum vehicula massa, ac pharetra leo tincidunt eu. Phasellus in tristique magna, ac
-                            gravida leo. Integer sed lorem sapien. Ut viverra mauris sed lobortis commodo.”</p>
+                        <p>“Specialsync adalah perusahaan luar biasa yang akan membantu Anda membuat situs web dalam
+                            waktu singkat. Saya senang bekerja dengan Specialsync pada beberapa proyek dan sangat senang
+                            dengan layanan mereka. Mereka adalah pembuat situs terbaik saya!”</p>
                         <h4>George Lopez</h4>
                         <span>Crypto Manager</span>
                         <div class="right-image">
-                            <img src="<?= base_url() ?>/assets/images/testimonials-01.jpg" alt="">
+                            <img src="<?= base_url() ?>/assets/images/testimonials-03.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -278,37 +199,37 @@
     </div>
 </section>
 
-<section class="partners">
+<section class="partners border-top">
     <div class="container">
         <div class="row">
             <div class="col-lg-2 col-sm-4 col-6">
                 <div class="item">
-                    <img src="<?= base_url() ?>/assets/images/client-01.png" alt="">
+                    <img src="<?= base_url() ?>/assets/images/client-02.png" alt="">
                 </div>
             </div>
             <div class="col-lg-2 col-sm-4 col-6">
                 <div class="item">
-                    <img src="<?= base_url() ?>/assets/images/client-01.png" alt="">
+                    <img src="<?= base_url() ?>/assets/images/client-03.png" alt="">
                 </div>
             </div>
             <div class="col-lg-2 col-sm-4 col-6">
                 <div class="item">
-                    <img src="<?= base_url() ?>/assets/images/client-01.png" alt="">
+                    <img src="<?= base_url() ?>/assets/images/client-04.png" alt="">
                 </div>
             </div>
             <div class="col-lg-2 col-sm-4 col-6">
                 <div class="item">
-                    <img src="<?= base_url() ?>/assets/images/client-01.png" alt="">
+                    <img src="<?= base_url() ?>/assets/images/client-05.png" alt="">
                 </div>
             </div>
             <div class="col-lg-2 col-sm-4 col-6">
                 <div class="item">
-                    <img src="<?= base_url() ?>/assets/images/client-01.png" alt="">
+                    <img src="<?= base_url() ?>/assets/images/client-06.png" alt="">
                 </div>
             </div>
             <div class="col-lg-2 col-sm-4 col-6">
                 <div class="item">
-                    <img src="<?= base_url() ?>/assets/images/client-01.png" alt="">
+                    <img src="<?= base_url() ?>/assets/images/client-07.png" alt="">
                 </div>
             </div>
         </div>
