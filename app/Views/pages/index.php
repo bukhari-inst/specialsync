@@ -148,6 +148,75 @@
     </div>
 </section>
 
+<section class="about-us" id="about">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 offset-lg-3">
+                <div class="section-heading">
+                    <h6>PORTFOLIO</h6>
+                    <h4>Jasa Pembuatan Website Specialsync</h4>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-4 mb-4">
+                    <div class="card" style="width: 22rem;">
+                        <img src="<?= base_url() ?>/assets/images/portofolio-1.jpg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Build House</h5>
+                            <p class="card-text"><em>Portfolio, Portfolio Sample</em></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4 mb-4">
+                    <div class="card" style="width: 22rem;">
+                        <img src="<?= base_url() ?>/assets/images/portofolio-2.jpg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Product Design Agency </h5>
+                            <p class="card-text"><em>Portfolio, Portfolio Sample</em></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4 mb-4">
+                    <div class="card" style="width: 22rem;">
+                        <img src="<?= base_url() ?>/assets/images/portofolio-3.jpg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Learning With Us</h5>
+                            <p class="card-text"><em>Portfolio, Portfolio Sample</em></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="card" style="width: 22rem;">
+                        <img src="<?= base_url() ?>/assets/images/portofolio-4.jpg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Big Together</h5>
+                            <p class="card-text"><em>Portfolio, Portfolio Sample</em></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="card" style="width: 22rem;">
+                        <img src="<?= base_url() ?>/assets/images/portofolio-5.jpg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Prigu E-commerce</h5>
+                            <p class="card-text"><em>Portfolio, Portfolio Sample</em></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="card" style="width: 22rem;">
+                        <img src="<?= base_url() ?>/assets/images/portofolio-6.jpg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Wonder Worry</h5>
+                            <p class="card-text"><em>Portfolio, Portfolio Sample</em></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 <section class="testimonials" id="testimonials">
     <div class="container">
         <div class="row">
