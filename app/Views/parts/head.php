@@ -18,7 +18,7 @@
 
     <!-- Additional CSS Files -->
     <link rel="stylesheet" href="<?= base_url() ?>/assets/css/fontawesome.css">
-    <link rel="stylesheet" href="<?= base_url() ?>/assets/css/app.css">
+    <link rel="stylesheet" href="<?= base_url() ?>/assets/css/style.css">
     <link rel="stylesheet" href="<?= base_url() ?>/assets/css/owl.css">
     <link rel="stylesheet" href="<?= base_url() ?>/assets/css/animate.css">
     <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css">
